@@ -1,4 +1,3 @@
-# iran-bomber
 sms bomber pro irani 🇮🇷v1 with Go (Golang)
 <img src="screen/Screenshot_20230815-000720_Chrome.jpg">
 
@@ -38,7 +37,7 @@ sms bomber pro irani 🇮🇷v1 with Go (Golang)
 ## Run in Linux/Termux
 
 ```
-git clone https://github.com/esfelurm/iran-bomber
+git clone https://github.com/THDCC68/Maktab
 cd iran-bomber
 go run sms.go
 ```
